@@ -1,0 +1,22 @@
+.posts{
+    border: solid 1px black;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+button{
+    margin: 7px 4px 2px 2px;
+}
+
+.blognumber{
+    margin-bottom: 2px;
+    font-size: large;
+}
+
+.likes{
+    margin-top: 10px;
+}
+
+.header{
+    font-size: medium;
+}
